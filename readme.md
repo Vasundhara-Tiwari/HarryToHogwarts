@@ -28,18 +28,18 @@ interger count
 
 
 
-Sample Input 0
+Sample Input 0<br>
 
-1235
-Sample Output 0
+1235<br>
+Sample Output 0<br>
 
-7
-Sample Input 1
-
+7<br>
+Sample Input 1<br>
 1234
-Sample Output 1
+<br>
+Sample Output 1<br>
 
-3
+3<br>
 
 Explanation 1
 

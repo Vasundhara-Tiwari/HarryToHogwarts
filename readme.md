@@ -40,3 +40,12 @@ Sample Input 1
 Sample Output 1
 
 3
+
+Explanation 1
+
+N = 1234
+Step 1: x = 4321 y= 1234 => n = x-y => 3087
+Step 2: x = 8730 y= 0378 => n = x-y => 8352
+Step 3: x = 8532 y= 2358 => n = x-y => 6174
+you are done.
+Answer is 3

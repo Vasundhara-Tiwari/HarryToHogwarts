@@ -24,22 +24,23 @@ None
 
 Output Format
 
-interger count
+integer count
 
 
 
 Sample Input 0<br>
-
 1235<br>
-Sample Output 0<br>
 
+Sample Output 0<br>
 7<br>
+
 Sample Input 1<br>
 1234
+
 <br>
 Sample Output 1<br>
-
 3<br>
+
 
 Explanation 1
 

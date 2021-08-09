@@ -12,3 +12,16 @@ Step 3: x = 8532 y= 2358 => n = x-y => 6174
 and you are done.
 
 Answer is 3
+
+
+Input Format
+
+integer four digit only >0
+
+Constraints
+
+None
+
+Output Format
+
+interger count

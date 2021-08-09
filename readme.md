@@ -25,3 +25,18 @@ None
 Output Format
 
 interger count
+
+
+
+Sample Input 0
+
+1235
+Sample Output 0
+
+7
+Sample Input 1
+
+1234
+Sample Output 1
+
+3
